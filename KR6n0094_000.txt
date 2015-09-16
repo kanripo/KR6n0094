@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘五蘊論
+#+DATE: 2015-08-30 20:58:15.056725
+#+PROPERTY: JUAN 0
