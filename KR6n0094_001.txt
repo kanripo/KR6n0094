@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:14.863258
+#+DATE: 2015-08-30 20:58:16.019732
 #+TITLE: 大乘五蘊論
 #+PROPERTY: CBETA_ID T31n1612
 #+PROPERTY: ID KR6n0094
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1612
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0094_T_001-0848b> 
 #+PROPERTY: JUAN 1
-No.1612[cf.No.1613]¶
-
- 《大乘五蘊論》一卷¶
+No. 1612 [cf. No. 1613]¶
+《大乘五蘊論》一卷¶
 ¶
 世親菩薩造¶
 三藏法師玄奘奉　詔譯¶
